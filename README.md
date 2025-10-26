@@ -44,7 +44,7 @@ Retrieve user information by phone number.
         "unit_id": "eg8910", // (Required)
         "unit_name": "Unit A 50", // (Required)
         "unit_code": "unit-11", // (Required)
-        "unit_role":  "OWNER", // optional if the CRM/ERP has the owners only.
+        "unit_role":  "OWNER", // optional if the CRM/ERP has the owners/tenants only.
         "project_id": "e6f11...", // (Required)
         "project_name": "Project 1",
         "status": "MOVED_IN" // (Required)
